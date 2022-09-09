@@ -1,0 +1,51 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: gainsboro;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+ol {
+    list-style-position: outside;
+    margin-left: 1070px;
+}
+
+h1 {
+    text-align: center;
+    line-height: 70px;
+}
+
+h2 {
+    text-align: center;
+    color: rebeccapurple;
+    line-height: 50px;
+}
+
+table {
+    border: 2px solid darkorchid;
+    width: 870px;
+    margin: 0 auto;
+}
+
+thead {
+    background-color: plum;
+}
+  
+td {
+    border-top: 1px solid darkorchid;
+    padding: 1px;
+}
+
+.code {
+    font-family: monospace;
+    background-color: beige;
+}
+
+a:hover {
+    color: orange;
+}
